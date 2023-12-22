@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Moatazahmed
+- 👋 Hi, I’m @Moataz Ahmed
 - 👀 I’m interested in ... problem solving and web development
 - 🌱 I’m currently learning ... cpp python html css js 
 - 💞️ I’m looking to collaborate on ...
