@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Moataz Ahmed
-- 👀 I’m interested in ... problem solving and web development
-- 🌱 I’m currently learning ... cpp python html css js 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... problem solving , web development and data analysis
+- 🌱 I’m currently learning ... cpp - python - html - css - js 
 - 📫 How to reach me ... my e-mail : moatazahmed696@gmail.com
 
 <!---
