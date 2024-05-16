@@ -6,7 +6,7 @@ date  = input("enter date in this format MM/DD/YYYY: ")
 page  = requests.get(F"https://www.yallakora.com/match-center/?date={date}#days")
 def main(page):
     src = page.content
-    beauty = BeautifulSoup(src , "lxml" )
+    beauty = BeautifulSoup(src , "html.parser" )
     matches_details = []
     championships = beauty.find_all("div" , {'class': 'matchCard'})
     # get matches info
